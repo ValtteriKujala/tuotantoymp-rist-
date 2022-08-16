@@ -1,1 +1,4 @@
 # tuotantoymp-rist-
+
+-nettikauppa
+-hakukenttä
